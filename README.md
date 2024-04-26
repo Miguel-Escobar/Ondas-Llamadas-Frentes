@@ -1,2 +1,2 @@
 # Ondas-Llamadas-Frentes
- Ramo cursado el sesmtre Otoño 2024
+ Ramo cursado el semestre Otoño 2024
